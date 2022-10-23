@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Ondrej Dobesch
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning C#, Java, HTML, CSS, JavaScript
-- 💞️ I’m looking to collaborate on ...
+- 👀 I’m interested in C#/ASP.NET/SharePoint Development
+- 🌱 I’m currently learning C#, HTML, CSS, JavaScript/TypeScript, React
+- 💞️ I’m looking to collaborate on any interesting project
 - 📫 How to reach me > https://www.linkedin.com/in/ondrej-dobesch/
 
 <!---
