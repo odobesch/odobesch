@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Ondrej Dobesch
-- 👀 I’m interested in C#/ASP.NET/SharePoint Development
-- 🌱 I’m currently learning C#, HTML, CSS, JavaScript/TypeScript, React
+- 👀 I’m interested in C#/.NET/ASP.NET/.NET MAUI
+- 🌱 I’m currently learning Algorithms and Data Structures, Design patterns
 - 💞️ I’m looking to collaborate on any interesting project
 - 📫 How to reach me > https://www.linkedin.com/in/ondrej-dobesch/
 
